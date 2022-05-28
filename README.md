@@ -1,2 +1,2 @@
-# projects
-My Yandex-praktikum projects 
+# Portfolio
+В данном репозитории хранятся мои проекты по Data Science. Проекты были выполнены в ходе обучения в Яндекс.Практикуме, профстандарт 06.042 "Специалист по Data Science". 
